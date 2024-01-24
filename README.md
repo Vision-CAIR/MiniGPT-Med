@@ -30,7 +30,7 @@ Then modify line 14 at RadGPT/minigpt4/configs/models/minigpt_v2.yaml to be the 
 ## Launching Demo Locally
 
 ```
-python demo.py --cfg-path eval_configs/minigptv2_eval.yaml  --gpu-id 0
+python demo_v2.py --cfg-path eval_configs/minigptv2_eval.yaml  --gpu-id 0
 ```
 
 ## Acknowledgement
