@@ -11,11 +11,11 @@ conda env create -f environment.yml
 conda activate MiniGPT-Rad
 ```
 
-## Download RadGPT trained weights
+## Download MiniGPT-Rad trained weights
 
-**Last trained weight with only public datasets and Llama2 could be downloaded at [radgpt4_llama2_7bchat_stage3.pth](https://drive.google.com/file/d/1wE-uIS2meGGt6z8LbqUVwHBPQsE4rd3B/view).
+**Last trained weight with only public datasets and Llama2 could be downloaded at [MiniGPT-Rad_llama2_7bchat_stage3.pth](https://drive.google.com/file/d/12-L3FxgZmLCRSGQ8ZglNhJv-KDTs8XGv/view).
 
-** Then modify line 8 at MiniGPT-Rad/eval_configs/minigptv2_eval.yaml to be the path of RadGPT weight.
+** Then modify line 8 at MiniGPT-Rad/eval_configs/minigptv2_eval.yaml to be the path of MiniGPT-Rad weight.
 
 ## Prepare weight for LLMs
 
