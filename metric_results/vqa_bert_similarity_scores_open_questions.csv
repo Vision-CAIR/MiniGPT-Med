@@ -1,0 +1,223 @@
+img_name,question,answer,BERT_score
+synpic32933.jpg,What is the abnormality by the right hemidiaphragm?,right lobe mass,-0.034315101802349
+synpic22156.jpg,How do you know that small bowel and colon are on different sides of midline?,Because of the presence of the appendix,-0.0151284411549568
+synpic37605.jpg,What MRI imaging sequence is shown above?,FLAIR,-0.0106984870508313
+synpic23989.jpg,What plane is demonstrated?,PA,-0.0052631981670856
+synpic44995.jpg,what is the most likely etiology,PRES,0.0045106750912964
+synpic32933.jpg,What is under the right hemidiaphragm?,The liver,0.0134904673323035
+synpic50848.jpg,What is the most likely diagnosis?,Multiple sclerosis,0.0155007345601916
+synpic17675.jpg,What sign determines the absence of a pleural effusion?,No pneumothorax,0.0227901693433523
+synpic29048.jpg,The soft-tissue density seen in this image contains what?,nipple shadow,0.0271005108952522
+synpic59935.jpg,What area of cerebrum is visible?,,0.0320883803069591
+synpic60543.jpg,The image probably had what incidental finding?,none,0.0325303375720977
+synpic22156.jpg,What are defining radiological features of the small bowel?,Air-fluid levels,0.0329880639910697
+synpic29048.jpg,Where is the abnormality located in this image?,Right side of the trachea,0.0580540411174297
+synpic52248.jpg,What imaging modality was used?,MRI,0.0633761957287788
+synpic9872.jpg,What is the imaging modality?,MRI,0.0633761957287788
+synpic34054.jpg,What is the condition of the patient,stable,0.0643575266003608
+synpic29219.jpg,What is seen in the right kidney?,contrast,0.0796004757285118
+synpic31400.jpg,What is seen in the lung apices?,No consolidation,0.0843642801046371
+synpic43648.jpg,How can you tell if contrast has been utilized?,Enhancement of vessels,0.0937576368451118
+synpic22156.jpg,What could cause this finding?,Stones in the bile ducts,0.1000727638602256
+synpic47196.jpg,What are the structures near the vertebral column?,Aorta and esophagus,0.1026827171444892
+synpic19118.jpg,What is this lucency amid densities in the right lung?,pleural effusion,0.1088797897100448
+synpic48749.jpg,Is this cancer or hemorrhage?,Hemorrhage,0.1135827973484993
+synpic43648.jpg,What are the dark areas at the top of the picture?,Contrast in the lung,0.1240603178739547
+synpic59935.jpg,What does the abnormality in this image represent?,Diffuse,0.1314855366945266
+synpic41667.jpg,What structure is superimposed on the left hemidiaphragm?,The heart,0.1322013884782791
+synpic38630.jpg,the internal gas and enhancing rim suggests what type of lesion?,abscess,0.1324985325336456
+synpic38630.jpg,What type of hepatic lesion has internal gas and enhancing rim?,Abscess,0.1324985325336456
+synpic49027.jpg,what is the primary pathology,hydronephrosis,0.1327674835920334
+synpic50848.jpg,What term is synonymous with lens-shaped?,Coated,0.1333285570144653
+synpic44995.jpg,What is most likely causing these lesions?,HIV infection,0.1345643103122711
+synpic60543.jpg,What was probably found incidentally on this image?,retinal pigment epithelial thickening,0.1354914456605911
+synpic22156.jpg,How do you distinguish large bowel?,by air/fluid levels,0.140872448682785
+synpic22156.jpg,How do you identify small bowel?,air-fluid level,0.1412374824285507
+synpic21700.jpg,what is the location of the mass?,cecum,0.1430148333311081
+synpic21604.jpg,What does the black area signify?,Air,0.1488957703113556
+synpic54802.jpg,Where are the infarcts seen?,"basal ganglia, cerebellum, cerebral cortex",0.1503370255231857
+synpic48749.jpg,The dark areas of the image show what type of brain matter?,Cerebrospinal fluid,0.1588923335075378
+synpic34054.jpg,What abnormality is seen?,air fluid level in the right peritoneal cavity,0.1595231741666793
+synpic33689.jpg,What organ system is primarily present in this image?,GI,0.165921002626419
+synpic21604.jpg,What is the organ system visualized?,GI,0.165921002626419
+synpic47196.jpg,What are the hypoattenuated round structures surrounding the veterbral column?,Rib cage,0.1667371392250061
+synpic56422.jpg,What type of thrombosis is shown?,Petechial,0.1674047857522964
+synpic23989.jpg,What pathology is shown?,cardiomegaly,0.1729039996862411
+synpic43648.jpg,In what space/cavity is the abnormal organ located?,Right hypochondrium,0.1803980320692062
+synpic22828.jpg,What are the hyperintensities surrounding the aorta?,Ribs,0.1809869557619094
+synpic47196.jpg,What is the dark structure underneath the skin?,Subcutaneous tissue,0.1810745447874069
+synpic57317.jpg,How would you describe the sulci in this image?,Deep,0.1826020181179046
+synpic9872.jpg,Where is the mass located?,Pineal region,0.1857239603996276
+synpic9872.jpg,What is the location of the brain mass?,Pineal region,0.1857239603996276
+synpic50848.jpg,what shape would the lesion be if this were a subdural hematoma?,Ring-enhancing,0.1858512759208679
+synpic59935.jpg,Which vessel is infarcted in this image?,Right MCA,0.2061843127012252
+synpic42182.jpg,Are there multiple masses or just a single big one?,multiple masses,0.2067100554704666
+synpic20375.jpg,What is the size of the lesion,1.5 cm,0.2087714076042175
+synpic17675.jpg,What is better identified on a PA CXR vs a lateral CXR?,Ribs and diaphragm,0.2124919295310974
+synpic33689.jpg,How would you describe the duodenum?,air-filled,0.2128130048513412
+synpic50848.jpg,"what is the alternate name for lens-shaped""""",Pupil,0.2179619371891021
+synpic27601.jpg,Where in relation to the mass is the left kidney located in this image?,High,0.2208374142646789
+synpic56422.jpg,How was this MRI taken?,T2-weighted,0.2281135022640228
+synpic29048.jpg,The image has an abnormality located where?,Right apex,0.2308377772569656
+synpic60543.jpg,What would be the most probably diagnosis for this patient?,Multiple sclerosis,0.2350052446126938
+synpic45634.jpg,How would you describe the lesions?,Ring-enhancing lesions,0.2350974828004837
+synpic50848.jpg,What shape is the lesion in a subdural hematoma?,Ring,0.2351327389478683
+synpic22020.jpg,What is the muscle adjacent to the vertebrae?,Ribs,0.2371614724397659
+synpic50848.jpg,What is going on with this patient?,They have a right subdural hematoma,0.2424356490373611
+synpic49027.jpg,What is the secondary abnormality in this image?,Right temporal lobe lesion,0.242811843752861
+synpic33889.jpg,Where is the mass in the liver?,Portal vein,0.2429951876401901
+synpic33689.jpg,Was oral or IV contrast used?,oral contrast,0.2478652000427246
+synpic28987.jpg,What pathology is shown in the aorta?,Atherosclerosis,0.2484089285135269
+synpic31217.jpg,What is the abnormality?,Right paratracheal mass lesion,0.2488636374473571
+synpic53097.jpg,What is the location of the mass?,sella and suprasellar cistern,0.2493471652269363
+synpic53097.jpg,Where is the mass located?,sella and suprasellar cistern,0.2493471652269363
+synpic100228.jpg,What is the location of the three circular opacities?,Convex aspect of the diaphragm,0.2674444615840912
+synpic56061.jpg,Which region of the brain is impacted?,cerebellum,0.2711216509342193
+synpic49027.jpg,what is the secondary pathology?,vasculature,0.2715146541595459
+synpic23989.jpg,What is the pathology?,cardiomegaly with pulmonary edema,0.2861380279064178
+synpic41667.jpg,What structure is seen in the left hemidiaphragmatic area?,Spleen,0.2913547158241272
+synpic45634.jpg,What is one adjective to describe the lesion(s)?,Ring-enhancing,0.292359858751297
+synpic23571.jpg,Where Is there obstruction present?,Small bowel,0.3010677099227905
+synpic22684.jpg,There is a large enhancing mass growing from what organ in this CT scan?,Pancreas,0.3104498982429504
+synpic42202.jpg,Which organ system is abnormal in this image?,Respiratory,0.3129240572452545
+synpic21604.jpg,What other organs are present?,"liver, kidneys",0.3129607141017914
+synpic56422.jpg,What type of MRI is this?,T2,0.3154424130916595
+synpic60703.jpg,What area of the brain is edematous?,Right temporal lobe,0.3203389942646026
+synpic32727.jpg,Where are the densities identified in the patient?,Contrast in the peritoneal cavity,0.3258816301822662
+synpic100228.jpg,Is this an AP or PA film?,PA,0.330437421798706
+synpic100228.jpg,What plane was this chest film taken in?,PA,0.330437421798706
+synpic29771.jpg,What skeletal joint is seen in this image?,sternum,0.3399681150913238
+synpic23571.jpg,"Where is obstruction present, if any?",Right colon,0.3404461741447449
+synpic60703.jpg,How is the artifact in this image categorized?,Noise,0.341848760843277
+synpic20208.jpg,What solid organ is seen on the right side of this image?,Gallbladder,0.3458393514156341
+synpic54802.jpg,What do the hyperdensities represent?,Hemorrhage,0.347629189491272
+synpic54802.jpg,What are the hyperdensities indicative of?,Hemorrhage,0.347629189491272
+synpic57317.jpg,Where do you see a large hematoma?,Right eyelid,0.3507710099220276
+synpic52248.jpg,What structures are involved?,"cerebellum, cerebrum, brainstem",0.3510056138038635
+synpic56061.jpg,How was the image taken?,MRI,0.3510282337665558
+synpic57935.jpg,What are the possible diagnoses?,"Ischemic stroke, brain abscess, subarachnoid hemorrhage",0.3574861586093902
+synpic32933.jpg,Where is the abnormality located?,Right side of the trachea,0.3594177663326263
+synpic38531.jpg,Is the apical aeration normal or decreased?,Decreased,0.3660707175731659
+synpic45634.jpg,What is the signal intensity of the lesion?,High,0.3675223588943481
+synpic33689.jpg,Is the contrast in the bowels or the vasculature?,In the bowels,0.3697092831134796
+synpic27601.jpg,"What is denser, the lesion or the surrounding tissue?",Lesion,0.3717223703861236
+synpic49381.jpg,What are these hyperintensities to the right?,Hemorrhage,0.375968337059021
+synpic57317.jpg,Where is the large hematoma located?,Right epidural hematoma,0.3818765580654144
+synpic31757.jpg,What is the location of the mass?,Pancreatic body,0.3819078207015991
+synpic31757.jpg,Where is the mass located?,Pancreatic body,0.3819078207015991
+synpic52248.jpg,What type of image modality is this?,MRI FLAIR,0.3857169449329376
+synpic45364.jpg,What is the location of the lesion?,Right lobe of the liver,0.3872035443782806
+synpic45364.jpg,Where is the lesion?,Right lobe of the liver,0.3872035443782806
+synpic56422.jpg,Where do we see multiple infarcts in the above image?,Basal ganglia,0.3960202038288116
+synpic31400.jpg,where is the abnormality?,Right side of the trachea,0.3989467024803161
+synpic41667.jpg,Are the ground glass opacities located more in the apex or base of the lung?,Apex,0.4048893749713897
+synpic60703.jpg,What brain region demonstrates edema?,Right parietal lobe,0.4099844694137573
+synpic43648.jpg,What are the signs of contrast being used?,Enhancement of vessels,0.4151443839073181
+synpic22828.jpg,What are the hyperdense lesions noted at the edges of the aorta?,Calcification,0.4298829138278961
+synpic100228.jpg,Where are the three circular opacities located?,On the ribs,0.4442882239818573
+synpic59935.jpg,Which lobe of the cerebrum is visible?,Left frontal,0.4496821761131286
+synpic56061.jpg,Where is the pathology located?,In the cortex and basal ganglia bilaterally,0.4613141417503357
+synpic23571.jpg,The small bubbles of air seen in the lumen are normal or abnormal?,Normal,0.4653403460979461
+synpic23571.jpg,Are the small bubbles of air seen normal or abnormal?,Normal,0.4653403460979461
+synpic60543.jpg,The image above shows an abnormality where?,Right parietal lobe,0.4661714136600494
+synpic57935.jpg,What is your differential diagnoses?,"ICP, stroke, infection, tumor",0.4671876132488251
+synpic22156.jpg,How can you tell contrast has been give orally?,Barium in the stomach,0.4681805670261383
+synpic21037.jpg,Which side of the image is the thoracic mass located on?,Right,0.4727779328823089
+synpic22020.jpg,What muscle surrounds the vertebrae?,Rectus abdominis muscle,0.4748523235321045
+synpic29219.jpg,Describe the lesions in the right kidney?,No significant lesions,0.4776008129119873
+synpic28569.jpg,Where is the abnormality in this image?,Right lobe of the liver,0.4782874584197998
+synpic28569.jpg,Where is the lesion located?,Right lobe of the liver,0.4782874584197998
+synpic29219.jpg,Which kidney has abnormalities?,Right kidney,0.4790125787258148
+synpic29219.jpg,Which kidney is abnormal?,Right kidney,0.4790125787258148
+synpic34054.jpg,Which kidney has fluid around it?,Right kidney,0.4790125787258148
+synpic31217.jpg,Where is the nodule?,Right upper lobe,0.4868723154067993
+synpic41667.jpg,What vein is the central venous catheter located in the patient?,Right atrium,0.5003503561019897
+synpic31400.jpg,What abnormalities are in the lung apices?,bilateral nodules,0.5239650011062622
+synpic22156.jpg,what are defining Radiological features of large bowel?,Air-fluid levels,0.532219409942627
+synpic43648.jpg,What is the dark space in the body cavity near the top of the image?,Stomach,0.5664516687393188
+synpic31962.jpg,Where is the aortic arch?,Left,0.5673210620880127
+synpic35914.jpg,Is the colon more prominent on the patient's right or left side?,Right side,0.5673210620880127
+synpic60703.jpg,What type of artifact is shown in this image?,Motion blur,0.5751425623893738
+synpic54802.jpg,Where are the acute infarcts?,"basal ganglia, cerebellum, cerebral cortex",0.576215386390686
+synpic54802.jpg,Where do you see acute infarcts?,"basal ganglia, cerebellum, cerebral cortex",0.576215386390686
+synpic28987.jpg,What imaging modality is used?,X-ray,0.579432487487793
+synpic31217.jpg,What is the location of the abnormality?,Right side of the trachea,0.5802570581436157
+synpic31217.jpg,Where is the abnormality?,Right side of the trachea,0.5802570581436157
+synpic22156.jpg,How can you tell that one side is small Bowen and the other side is large bowel?,Contrast in the gut,0.5877261161804199
+synpic35914.jpg,Where is the colon most prominent from this view?,Right,0.5928261876106262
+synpic20375.jpg,Is the lesion on the left or right?,Left,0.5928261876106262
+synpic38531.jpg,"Are pleural opacities located on the left, right, or both sides of the lung?",Both sides,0.5940399765968323
+synpic48749.jpg,Are the dark areas grey or white matter?,Grey matter,0.5951149463653564
+synpic31757.jpg,How big is the mass?,1.6 cm,0.6006895899772644
+synpic49027.jpg,What is the primary abnormality in this image?,ring-enhancing lesion,0.6032707095146179
+synpic33889.jpg,What part of the liver is the mass located in?,Right lobe,0.6271347999572754
+synpic27601.jpg,Where is the spleen located?,On the patient's left,0.628600001335144
+synpic20208.jpg,What two large vessels are seen directly anterior to the spinal column?,Aorta and pulmonary trunk,0.6397111415863037
+synpic17675.jpg,What indicates there is no pleural effusion present?,No fluid or pus in the lateral costophrenic angle,0.6468583345413208
+synpic27655.jpg,What imaging modality is used?,X-ray,0.6627939939498901
+synpic31962.jpg,Which side of the image is the aortic arch visualized?,Right,0.6790967583656311
+synpic37605.jpg,Where is the brain lesion located?,Right parietal lobe,0.6940729022026062
+synpic37605.jpg,What lobe of the brain is the lesion located in?,Right parietal lobe,0.6940729022026062
+synpic21604.jpg,Where is the lesion located?,Right lobe of the liver,0.6944664716720581
+synpic41667.jpg,What parts of the lung fields contain the most prominent ground glass opacities?,Upper lungs,0.6988270878791809
+synpic57317.jpg,What imaging modality is used?,MRI,0.7232193350791931
+synpic49027.jpg,What is the characterization of the lesion,Ring-enhancing,0.7246617078781128
+synpic49027.jpg,How would you characterize the lesion?,Ring-enhancing,0.7246617078781128
+synpic31400.jpg,What kind of image is this?,Chest x-ray,0.7314075827598572
+synpic56061.jpg,What type of image is this?,MRI-DWI,0.7395192384719849
+synpic28987.jpg,What is wrong with the aortic area?,Aortic knob calcification,0.7508574724197388
+synpic44995.jpg,The pathology is located in which lobes of the brain?,Bilateral parietal lobes,0.7754793763160706
+synpic44995.jpg,which lobes demonstrate pathology,bilateral parietal lobes,0.7754793763160706
+synpic45634.jpg,Where is/are the abnormality located?,Right posteroinferior cerebellum,0.7951745390892029
+synpic27601.jpg,Is the lesion in this image more or less dense than the surrounding tissue?,more dense,0.8226568698883057
+synpic60543.jpg,Where is the abnormality in this image?,Basal ganglia,0.8310511112213135
+synpic20208.jpg,In what plane was this image taken?,Axial,0.8386015295982361
+synpic21700.jpg,Where is the mass located?,Pancreatic body,0.8460964560508728
+synpic56422.jpg,Location of the multiple infarcts?,bilateral cerebellum,0.8541327714920044
+synpic21604.jpg,What is the size of the mass lesion?,2.6 cm,0.8589665293693542
+synpic21604.jpg,How big is the liver lesion?,2.6 cm,0.8589665293693542
+synpic56061.jpg,what imaging modality was used,MRI,0.8597298860549927
+synpic59935.jpg,Where is the infarct?,Right cerebellum,0.9132911562919616
+synpic27601.jpg,Where is the mass located in relation to the left kidney?,Posterior,0.9297925233840942
+synpic43648.jpg,Approximately how much time was required to obtain this image?,10 minutes,0.9336515069007874
+synpic22684.jpg,What vessel is seen just anterior to the spine enhancing with contrast?,Aorta,0.9700036644935608
+synpic37605.jpg,What type of MRI is shown in the above image?,T2-weighted,0.9822735786437988
+synpic20375.jpg,What side is the lesion on?,Right,0.9999998211860656
+synpic56422.jpg,What organ system is shown in the above image?,Brain,0.9999998807907104
+synpic56422.jpg,Which organ system is shown in the image?,Brain,0.9999998807907104
+synpic21700.jpg,How many masses are there?,one,0.9999998807907104
+synpic52248.jpg,What organ is affected by pathology in this image?,Brain,0.9999998807907104
+synpic49027.jpg,How many ring enhancing lesions can be found in this image?,One,0.9999998807907104
+synpic40500.jpg,What organ is this image of?,Brain,0.9999998807907104
+synpic57317.jpg,What organ system is being imaged?,Brain,0.9999998807907104
+synpic38531.jpg,Are the pleural opacities bilateral or unilateral?,Bilateral,0.9999999403953552
+synpic54802.jpg,What side are the infarcts located?,Bilateral,0.9999999403953552
+synpic45634.jpg,What area is abnormal?,Right cerebellum,0.9999999403953552
+synpic52248.jpg,What imaging plane is depicted here?,Axial,1.0
+synpic52248.jpg,What is the plane?,axial,1.0
+synpic40500.jpg,What modality is this image taken?,MRI,1.0
+synpic32727.jpg,What are the hyperattenuations located around the patient?,Ribs,1.0
+synpic9872.jpg,"Is this a T1 weighted, T2 weighted, or FLAIR image?",FLAIR,1.0
+synpic29048.jpg,What part of the body does this radiograph show?,Chest,1.0
+synpic22828.jpg,What plane of the abdomen is this image?,Axial,1.0
+synpic60703.jpg,"Is this a T1 weighted, T2 weighted, or FLAIR image?",FLAIR,1.0
+synpic30215.jpg,What is the image plane?,Axial,1.0
+synpic33889.jpg,In what plane is this image taken?,Axial,1.0
+synpic31400.jpg,where is the cavitary lesion?,Right upper lobe,1.0
+synpic31400.jpg,Which organ system is imaged?,Chest,1.0
+synpic42202.jpg,What type of image is this?,Chest x-ray,1.0
+synpic22156.jpg,What plane is the image in?,Axial,1.0
+synpic28569.jpg,How many kidneys are in this image?,2,1.0
+synpic56061.jpg,What plane was used in this image?,axial,1.0
+synpic57935.jpg,What image plane is this?,Axial,1.0
+synpic41667.jpg,Where is the central venous catheter placed?,Right subclavian vein,1.0
+synpic29219.jpg,Which plane is the image taken?,Axial,1.0
+synpic21604.jpg,Which liver lobe is the lesion in?,Right lobe,1.0
+synpic21604.jpg,What is the modality by which the image was taken?,CT,1.0
+synpic48749.jpg,Which is more likely? Cancer or hemorrhage?,Hemorrhage,1.0000001192092896
+synpic47196.jpg,What hypoattenuated tissue is between the abdominal wall and skin?,Fat,1.0000001192092896
+synpic57317.jpg,The condition in which a patient has enlarged ventricles as seen in this image?,Hydrocephalus,1.0000001192092896
+synpic57317.jpg,What is the condition in which the ventricles are enlarged as seen in this image?,Hydrocephalus,1.0000001192092896
+synpic29048.jpg,What is filling the soft-tissue density seen in this image?,Air,1.0000001192092896
+synpic41667.jpg,Is this an AP or PA film?,PA,1.000000238418579
+synpic31217.jpg,Which plane is this image taken in?,PA,1.000000238418579

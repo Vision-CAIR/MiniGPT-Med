@@ -1,0 +1,1936 @@
+{
+    "synpic56061.jpg": [
+        {
+            "question": "Where is the pathology located?",
+            "answer": "In the cortex and basal ganglia bilaterally"
+        },
+        {
+            "question": "Which region of the brain is impacted?",
+            "answer": "cerebellum"
+        },
+        {
+            "question": "What type of image is this?",
+            "answer": "MRI-DWI"
+        },
+        {
+            "question": "what imaging modality was used",
+            "answer": "MRI"
+        },
+        {
+            "question": "How was the image taken?",
+            "answer": "MRI"
+        },
+        {
+            "question": "What plane was used in this image?",
+            "answer": "axial"
+        },
+        {
+            "question": "Were both sides affected?",
+            "answer": "no"
+        }
+    ],
+    "synpic57935.jpg": [
+        {
+            "question": "Are the lateral ventricles visible?",
+            "answer": "No"
+        },
+        {
+            "question": "Can the lateral ventricles be seen?",
+            "answer": "No"
+        },
+        {
+            "question": "Did the problem originate in the brain?",
+            "answer": "yes"
+        },
+        {
+            "question": "Do you suspect a primary brain process?",
+            "answer": "no"
+        },
+        {
+            "question": "What image plane is this?",
+            "answer": "Axial"
+        },
+        {
+            "question": "What is your differential diagnoses?",
+            "answer": "ICP, stroke, infection, tumor"
+        },
+        {
+            "question": "What are the possible diagnoses?",
+            "answer": "Ischemic stroke, brain abscess, subarachnoid hemorrhage"
+        }
+    ],
+    "synpic35914.jpg": [
+        {
+            "question": "Is a cystic cavity present in the left kidney on this image?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there a cyst in the left kidney?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there an intussusception present?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there evidence of intussusception on the right side?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the colon more prominent on the patient's right or left side?",
+            "answer": "Right side"
+        },
+        {
+            "question": "Where is the colon most prominent from this view?",
+            "answer": "Right"
+        },
+        {
+            "question": "Is there contrast present in the bowel?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic49381.jpg": [
+        {
+            "question": "Is there any hemorrhage?",
+            "answer": "No"
+        },
+        {
+            "question": "What are these hyperintensities to the right?",
+            "answer": "Hemorrhage"
+        },
+        {
+            "question": "Is the brain atrophied or shrunk?",
+            "answer": "No"
+        }
+    ],
+    "synpic28569.jpg": [
+        {
+            "question": "Where is the abnormality in this image?",
+            "answer": "Right lobe of the liver"
+        },
+        {
+            "question": "Where is the lesion located?",
+            "answer": "Right lobe of the liver"
+        },
+        {
+            "question": "Does the right kidney show signs of hydronephrosis?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the right kidney abnormal here?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the liver lacerated?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there damage to the liver?",
+            "answer": "No"
+        },
+        {
+            "question": "How many kidneys are in this image?",
+            "answer": "2"
+        }
+    ],
+    "synpic37605.jpg": [
+        {
+            "question": "What lobe of the brain is the lesion located in?",
+            "answer": "Right parietal lobe"
+        },
+        {
+            "question": "Where is the brain lesion located?",
+            "answer": "Right parietal lobe"
+        },
+        {
+            "question": "What MRI imaging sequence is shown above?",
+            "answer": "FLAIR"
+        },
+        {
+            "question": "What type of MRI is shown in the above image?",
+            "answer": "T2-weighted"
+        },
+        {
+            "question": "Does the lesion above enhance?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there enhancement of the lesion?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there mass effect from the lesion?",
+            "answer": "no"
+        }
+    ],
+    "synpic42182.jpg": [
+        {
+            "question": "Is the patient's kidney this large mass to the right?",
+            "answer": "No"
+        },
+        {
+            "question": "Are there multiple masses or just a single big one?",
+            "answer": "multiple masses"
+        },
+        {
+            "question": "Is the left kidney affected?",
+            "answer": "No"
+        }
+    ],
+    "synpic28987.jpg": [
+        {
+            "question": "Is there fluid in the lungs?",
+            "answer": "No"
+        },
+        {
+            "question": "Is a pleural effusion present?",
+            "answer": "No"
+        },
+        {
+            "question": "Is cardiomegaly shown?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the heart enlarged?",
+            "answer": "No"
+        },
+        {
+            "question": "What imaging modality is used?",
+            "answer": "X-ray"
+        },
+        {
+            "question": "What is wrong with the aortic area?",
+            "answer": "Aortic knob calcification"
+        },
+        {
+            "question": "What pathology is shown in the aorta?",
+            "answer": "Atherosclerosis"
+        }
+    ],
+    "synpic22828.jpg": [
+        {
+            "question": "Is the left renal cyst uniform?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the transverse colon in view?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is this patient in a supine position?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is the patient lying supine?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Was this image taken by x-ray?",
+            "answer": "yes"
+        },
+        {
+            "question": "What plane of the abdomen is this image?",
+            "answer": "Axial"
+        },
+        {
+            "question": "Did this patient receive IV contrast?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Was IV contrast given to the patient?",
+            "answer": "Yes"
+        },
+        {
+            "question": "What are the hyperdense lesions noted at the edges of the aorta?",
+            "answer": "Calcification"
+        },
+        {
+            "question": "What are the hyperintensities surrounding the aorta?",
+            "answer": "Ribs"
+        }
+    ],
+    "synpic27655.jpg": [
+        {
+            "question": "What imaging modality is used?",
+            "answer": "X-ray"
+        },
+        {
+            "question": "Is there any costophrenic angle blunting present?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there presence of any costophrenic angle blunting?",
+            "answer": "No"
+        },
+        {
+            "question": "Any tracheal deviation present?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there any presence of tracheal deviation?",
+            "answer": "No"
+        }
+    ],
+    "synpic42202.jpg": [
+        {
+            "question": "Is there evidence of an aortic aneurysm?",
+            "answer": "No"
+        },
+        {
+            "question": "Which organ system is abnormal in this image?",
+            "answer": "Respiratory"
+        },
+        {
+            "question": "Is there a pneumothorax?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there cardiomyopathy?",
+            "answer": "No"
+        },
+        {
+            "question": "What type of image is this?",
+            "answer": "Chest x-ray"
+        },
+        {
+            "question": "Is this an anterior-posterior image",
+            "answer": "no"
+        }
+    ],
+    "synpic17675.jpg": [
+        {
+            "question": "Is there free air under the diaphragm?",
+            "answer": "No"
+        },
+        {
+            "question": "Is subdiaphragmatic free air present?",
+            "answer": "No"
+        },
+        {
+            "question": "Are there cilia present at the level of alveoli?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Can x rays be used to identify liver lesions?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is there a pneumothorax?",
+            "answer": "No"
+        },
+        {
+            "question": "Is a pneuomothorax present?",
+            "answer": "No"
+        },
+        {
+            "question": "What is better identified on a PA CXR vs a lateral CXR?",
+            "answer": "Ribs and diaphragm"
+        },
+        {
+            "question": "Are there any fractures in this image?",
+            "answer": "No"
+        },
+        {
+            "question": "What indicates there is no pleural effusion present?",
+            "answer": "No fluid or pus in the lateral costophrenic angle"
+        },
+        {
+            "question": "What sign determines the absence of a pleural effusion?",
+            "answer": "No pneumothorax"
+        }
+    ],
+    "synpic19118.jpg": [
+        {
+            "question": "What is this lucency amid densities in the right lung?",
+            "answer": "pleural effusion"
+        },
+        {
+            "question": "Are these small opacities in the right lung calcifications?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is this a cyst in the left lung?",
+            "answer": "No"
+        }
+    ],
+    "synpic33889.jpg": [
+        {
+            "question": "Is the liver normal?",
+            "answer": "No"
+        },
+        {
+            "question": "Is this a typical liver?",
+            "answer": "No"
+        },
+        {
+            "question": "What part of the liver is the mass located in?",
+            "answer": "Right lobe"
+        },
+        {
+            "question": "Where is the mass in the liver?",
+            "answer": "Portal vein"
+        },
+        {
+            "question": "In what plane is this image taken?",
+            "answer": "Axial"
+        },
+        {
+            "question": "Is this a study of the brain?",
+            "answer": "no"
+        },
+        {
+            "question": "Is this a CT scan?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is there biliary duct dilation?",
+            "answer": "yes"
+        },
+        {
+            "question": "Are the kidneys normal?",
+            "answer": "No"
+        },
+        {
+            "question": "Are these normal looking kidneys?",
+            "answer": "yes"
+        }
+    ],
+    "synpic20208.jpg": [
+        {
+            "question": "Is there intraperitoneal hemorrhage present in this image?",
+            "answer": "No"
+        },
+        {
+            "question": "Is this an MRI?",
+            "answer": "yes"
+        },
+        {
+            "question": "What solid organ is seen on the right side of this image?",
+            "answer": "Gallbladder"
+        },
+        {
+            "question": "In what plane was this image taken?",
+            "answer": "Axial"
+        },
+        {
+            "question": "What two large vessels are seen directly anterior to the spinal column?",
+            "answer": "Aorta and pulmonary trunk"
+        },
+        {
+            "question": "Does this image display the contents of the abdomen?",
+            "answer": "yes"
+        }
+    ],
+    "synpic31400.jpg": [
+        {
+            "question": "Is this in the posterior anterior plane?",
+            "answer": "no"
+        },
+        {
+            "question": "Any abnormal findings in the lower lung fields?",
+            "answer": "No"
+        },
+        {
+            "question": "Are the lower lung fields normal?",
+            "answer": "No"
+        },
+        {
+            "question": "where is the cavitary lesion?",
+            "answer": "Right upper lobe"
+        },
+        {
+            "question": "where is the abnormality?",
+            "answer": "Right side of the trachea"
+        },
+        {
+            "question": "Which organ system is imaged?",
+            "answer": "Chest"
+        },
+        {
+            "question": "What abnormalities are in the lung apices?",
+            "answer": "bilateral nodules"
+        },
+        {
+            "question": "What is seen in the lung apices?",
+            "answer": "No consolidation"
+        },
+        {
+            "question": "What kind of image is this?",
+            "answer": "Chest x-ray"
+        },
+        {
+            "question": "Is this an abnormal film?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there a cavitary lesion?",
+            "answer": "yes"
+        }
+    ],
+    "synpic57317.jpg": [
+        {
+            "question": "What organ system is being imaged?",
+            "answer": "Brain"
+        },
+        {
+            "question": "Is this taken in the axial plane?",
+            "answer": "yes"
+        },
+        {
+            "question": "Where do you see a large hematoma?",
+            "answer": "Right eyelid"
+        },
+        {
+            "question": "Where is the large hematoma located?",
+            "answer": "Right epidural hematoma"
+        },
+        {
+            "question": "Is there mass shift pathology?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is there any mass shift?",
+            "answer": "No"
+        },
+        {
+            "question": "What imaging modality is used?",
+            "answer": "MRI"
+        },
+        {
+            "question": "The condition in which a patient has enlarged ventricles as seen in this image?",
+            "answer": "Hydrocephalus"
+        },
+        {
+            "question": "What is the condition in which the ventricles are enlarged as seen in this image?",
+            "answer": "Hydrocephalus"
+        },
+        {
+            "question": "How would you describe the sulci in this image?",
+            "answer": "Deep"
+        }
+    ],
+    "synpic100228.jpg": [
+        {
+            "question": "Is there evidence of a pleural effusion?",
+            "answer": "No"
+        },
+        {
+            "question": "What plane was this chest film taken in?",
+            "answer": "PA"
+        },
+        {
+            "question": "Is this an AP or PA film?",
+            "answer": "PA"
+        },
+        {
+            "question": "What is the location of the three circular opacities?",
+            "answer": "Convex aspect of the diaphragm"
+        },
+        {
+            "question": "Where are the three circular opacities located?",
+            "answer": "On the ribs"
+        },
+        {
+            "question": "Is there cardiomegaly?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the heart enlarged?",
+            "answer": "No"
+        }
+    ],
+    "synpic31467.jpg": [
+        {
+            "question": "Can the kidneys be visualized in this CT scan?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is this CT scan enhanced by IV contrast?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the width of the abdominal aorta within normal limits?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic42245.jpg": [
+        {
+            "question": "Are the hilar soft tissue densities symmetric?",
+            "answer": "No"
+        },
+        {
+            "question": "Are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are there any fractures in any of the ribs?",
+            "answer": "No"
+        },
+        {
+            "question": "Are any of the patient's ribs fractured?",
+            "answer": "No"
+        },
+        {
+            "question": "Are the costophrenic angles sharp?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there no evidence of blunting of the costophrenic angles?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the cardiac contour normal in shape?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic30215.jpg": [
+        {
+            "question": "Are the kidneys normal?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Do the kidneys appear to be normal?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are adrenal glands present in this image?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Can you see the adrenals?",
+            "answer": "Yes"
+        },
+        {
+            "question": "What is the image plane?",
+            "answer": "Axial"
+        },
+        {
+            "question": "Is there an aortic aneurysm?",
+            "answer": "No"
+        },
+        {
+            "question": "Can an aortic aneurysm be appreciated?",
+            "answer": "No"
+        }
+    ],
+    "synpic43648.jpg": [
+        {
+            "question": "Can you see the esophagus in this image?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the esophagus visible?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Approximately how much time was required to obtain this image?",
+            "answer": "10 minutes"
+        },
+        {
+            "question": "What are the dark areas at the top of the picture?",
+            "answer": "Contrast in the lung"
+        },
+        {
+            "question": "What is the dark space in the body cavity near the top of the image?",
+            "answer": "Stomach"
+        },
+        {
+            "question": "In what space/cavity is the abnormal organ located?",
+            "answer": "Right hypochondrium"
+        },
+        {
+            "question": "Can this plane detect an aortic aneurysm \tif present?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is the left kidney abnormal?",
+            "answer": "No"
+        },
+        {
+            "question": "How can you tell if contrast has been utilized?",
+            "answer": "Enhancement of vessels"
+        },
+        {
+            "question": "What are the signs of contrast being used?",
+            "answer": "Enhancement of vessels"
+        }
+    ],
+    "synpic50848.jpg": [
+        {
+            "question": "Is this picture abnormal?",
+            "answer": "Yes"
+        },
+        {
+            "question": "what is the alternate name for lens-shaped\"\"",
+            "answer": "Pupil"
+        },
+        {
+            "question": "What term is synonymous with lens-shaped?",
+            "answer": "Coated"
+        },
+        {
+            "question": "What is the most likely diagnosis?",
+            "answer": "Multiple sclerosis"
+        },
+        {
+            "question": "What is going on with this patient?",
+            "answer": "They have a right subdural hematoma"
+        },
+        {
+            "question": "what shape would the lesion be if this were a subdural hematoma?",
+            "answer": "Ring-enhancing"
+        },
+        {
+            "question": "What shape is the lesion in a subdural hematoma?",
+            "answer": "Ring"
+        }
+    ],
+    "synpic21700.jpg": [
+        {
+            "question": "is the stomach filled?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there gastric fullness?",
+            "answer": "yes"
+        },
+        {
+            "question": "Can you appreciate inflammation?",
+            "answer": "yes"
+        },
+        {
+            "question": "is there inflammation?",
+            "answer": "No"
+        },
+        {
+            "question": "what is the location of the mass?",
+            "answer": "cecum"
+        },
+        {
+            "question": "Where is the mass located?",
+            "answer": "Pancreatic body"
+        },
+        {
+            "question": "How many masses are there?",
+            "answer": "one"
+        }
+    ],
+    "synpic29048.jpg": [
+        {
+            "question": "What part of the body does this radiograph show?",
+            "answer": "Chest"
+        },
+        {
+            "question": "The image has an abnormality located where?",
+            "answer": "Right apex"
+        },
+        {
+            "question": "Where is the abnormality located in this image?",
+            "answer": "Right side of the trachea"
+        },
+        {
+            "question": "The soft-tissue density seen in this image contains what?",
+            "answer": "nipple shadow"
+        },
+        {
+            "question": "What is filling the soft-tissue density seen in this image?",
+            "answer": "Air"
+        }
+    ],
+    "synpic47196.jpg": [
+        {
+            "question": "What hypoattenuated tissue is between the abdominal wall and skin?",
+            "answer": "Fat"
+        },
+        {
+            "question": "What is the dark structure underneath the skin?",
+            "answer": "Subcutaneous tissue"
+        },
+        {
+            "question": "Can a diagnosis of appendicitis be made from this image?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is this confirmed appendicitis?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there fat stranding?",
+            "answer": "Yes"
+        },
+        {
+            "question": "What are the hypoattenuated round structures surrounding the veterbral column?",
+            "answer": "Rib cage"
+        },
+        {
+            "question": "What are the structures near the vertebral column?",
+            "answer": "Aorta and esophagus"
+        }
+    ],
+    "synpic60703.jpg": [
+        {
+            "question": "Are the lateral ventricles viewed in this section?",
+            "answer": "No"
+        },
+        {
+            "question": "Is this a T1 weighted, T2 weighted, or FLAIR image?",
+            "answer": "FLAIR"
+        },
+        {
+            "question": "Is this MRI taken with FLAIR protocol?",
+            "answer": "yes"
+        },
+        {
+            "question": "How is the artifact in this image categorized?",
+            "answer": "Noise"
+        },
+        {
+            "question": "What type of artifact is shown in this image?",
+            "answer": "Motion blur"
+        },
+        {
+            "question": "What brain region demonstrates edema?",
+            "answer": "Right parietal lobe"
+        },
+        {
+            "question": "What area of the brain is edematous?",
+            "answer": "Right temporal lobe"
+        }
+    ],
+    "synpic39088.jpg": [
+        {
+            "question": "Are there air-fluid levels present on this CT radiograph?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there evidence of air fluid levels in the patient's bowel?",
+            "answer": "yes"
+        },
+        {
+            "question": "Does the GI contrast hi-light the small bowel?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there oral contrast in the patient's small bowel?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is there enlargement of the abdominal aorta on this image?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the abdominal aorta large in size?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there evidence of pneumoperitoneum?",
+            "answer": "No"
+        }
+    ],
+    "synpic22156.jpg": [
+        {
+            "question": "How can you tell contrast has been give orally?",
+            "answer": "Barium in the stomach"
+        },
+        {
+            "question": "Is the Saggital plane?",
+            "answer": "yes"
+        },
+        {
+            "question": "What could cause this finding?",
+            "answer": "Stones in the bile ducts"
+        },
+        {
+            "question": "What plane is the image in?",
+            "answer": "Axial"
+        },
+        {
+            "question": "How can you tell that one side is small Bowen and the other side is large bowel?",
+            "answer": "Contrast in the gut"
+        },
+        {
+            "question": "How do you know that small bowel and colon are on different sides of midline?",
+            "answer": "Because of the presence of the appendix"
+        },
+        {
+            "question": "what are defining Radiological features of large bowel?",
+            "answer": "Air-fluid levels"
+        },
+        {
+            "question": "How do you distinguish large bowel?",
+            "answer": "by air/fluid levels"
+        },
+        {
+            "question": "What are defining radiological features of the small bowel?",
+            "answer": "Air-fluid levels"
+        },
+        {
+            "question": "How do you identify small bowel?",
+            "answer": "air-fluid level"
+        }
+    ],
+    "synpic53097.jpg": [
+        {
+            "question": "Is there evidence of calcification?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the mass calcified?",
+            "answer": "Yes"
+        },
+        {
+            "question": "What is the location of the mass?",
+            "answer": "sella and suprasellar cistern"
+        },
+        {
+            "question": "Where is the mass located?",
+            "answer": "sella and suprasellar cistern"
+        },
+        {
+            "question": "Is there evidence of hemorrhage?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the mass hemorrhagic?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is the mass enhancing?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic33689.jpg": [
+        {
+            "question": "Is this in the lumbar vertebral level?",
+            "answer": "No"
+        },
+        {
+            "question": "Was oral or IV contrast used?",
+            "answer": "oral contrast"
+        },
+        {
+            "question": "What organ system is primarily present in this image?",
+            "answer": "GI"
+        },
+        {
+            "question": "How would you describe the duodenum?",
+            "answer": "air-filled"
+        },
+        {
+            "question": "Is the duodenum edematous?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the contrast in the bowels or the vasculature?",
+            "answer": "In the bowels"
+        },
+        {
+            "question": "Are both kidneys visualized?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Can you see both kidneys in this image?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there evidence of calcification in the pancreas?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the pancreas calcified?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic9872.jpg": [
+        {
+            "question": "Is there a shift of midline structures?",
+            "answer": "No"
+        },
+        {
+            "question": "Are the ventricles larger than normal?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there enlargement of the ventricles",
+            "answer": "yes"
+        },
+        {
+            "question": "What is the location of the brain mass?",
+            "answer": "Pineal region"
+        },
+        {
+            "question": "Where is the mass located?",
+            "answer": "Pineal region"
+        },
+        {
+            "question": "Is this a T1 weighted, T2 weighted, or FLAIR image?",
+            "answer": "FLAIR"
+        },
+        {
+            "question": "What is the imaging modality?",
+            "answer": "MRI"
+        }
+    ],
+    "synpic38630.jpg": [
+        {
+            "question": "Does this mass likely represent a neoplastic process?",
+            "answer": "yes"
+        },
+        {
+            "question": "IS this a neoplastic process?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is this a contrast-enhanced CT?",
+            "answer": "Yes"
+        },
+        {
+            "question": "the internal gas and enhancing rim suggests what type of lesion?",
+            "answer": "abscess"
+        },
+        {
+            "question": "What type of hepatic lesion has internal gas and enhancing rim?",
+            "answer": "Abscess"
+        },
+        {
+            "question": "can this patient be managed with medical therapy alone?",
+            "answer": "yes"
+        },
+        {
+            "question": "Will medical therapy be enough?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic20375.jpg": [
+        {
+            "question": "Are the ventricles enlarged?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there ventricular enlargement?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the lesion on the left or right?",
+            "answer": "Left"
+        },
+        {
+            "question": "What side is the lesion on?",
+            "answer": "Right"
+        },
+        {
+            "question": "What is the size of the lesion",
+            "answer": "1.5 cm"
+        },
+        {
+            "question": "Can gray-white differentiation be well assessed with this image?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there significant difference between gray and white matter here?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic21604.jpg": [
+        {
+            "question": "How big is the liver lesion?",
+            "answer": "2.6 cm"
+        },
+        {
+            "question": "What is the size of the mass lesion?",
+            "answer": "2.6 cm"
+        },
+        {
+            "question": "What is the modality by which the image was taken?",
+            "answer": "CT"
+        },
+        {
+            "question": "What is the organ system visualized?",
+            "answer": "GI"
+        },
+        {
+            "question": "Where is the lesion located?",
+            "answer": "Right lobe of the liver"
+        },
+        {
+            "question": "Which liver lobe is the lesion in?",
+            "answer": "Right lobe"
+        },
+        {
+            "question": "Is this image taken above the diaphragm?",
+            "answer": "No"
+        },
+        {
+            "question": "What does the black area signify?",
+            "answer": "Air"
+        },
+        {
+            "question": "Are there any other organs visualized in this image?",
+            "answer": "No"
+        },
+        {
+            "question": "What other organs are present?",
+            "answer": "liver, kidneys"
+        }
+    ],
+    "synpic59935.jpg": [
+        {
+            "question": "Where is the infarct?",
+            "answer": "Right cerebellum"
+        },
+        {
+            "question": "Which vessel is infarcted in this image?",
+            "answer": "Right MCA"
+        },
+        {
+            "question": "What area of cerebrum is visible?",
+            "answer": "None"
+        },
+        {
+            "question": "Which lobe of the cerebrum is visible?",
+            "answer": "Left frontal"
+        },
+        {
+            "question": "Is there a skull fracture present?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the skull fractured?",
+            "answer": "No"
+        },
+        {
+            "question": "What does the abnormality in this image represent?",
+            "answer": "Diffuse"
+        }
+    ],
+    "synpic45634.jpg": [
+        {
+            "question": "How would you describe the lesions?",
+            "answer": "Ring-enhancing lesions"
+        },
+        {
+            "question": "What is one adjective to describe the lesion(s)?",
+            "answer": "Ring-enhancing"
+        },
+        {
+            "question": "What area is abnormal?",
+            "answer": "Right cerebellum"
+        },
+        {
+            "question": "Where is/are the abnormality located?",
+            "answer": "Right posteroinferior cerebellum"
+        },
+        {
+            "question": "Are the findings normal?",
+            "answer": "No"
+        },
+        {
+            "question": "Is this image normal?",
+            "answer": "No"
+        },
+        {
+            "question": "What is the signal intensity of the lesion?",
+            "answer": "High"
+        }
+    ],
+    "synpic29219.jpg": [
+        {
+            "question": "Is the image of the gastrointestinal system?",
+            "answer": "yes"
+        },
+        {
+            "question": "Which kidney is abnormal?",
+            "answer": "Right kidney"
+        },
+        {
+            "question": "Which kidney has abnormalities?",
+            "answer": "Right kidney"
+        },
+        {
+            "question": "Describe the lesions in the right kidney?",
+            "answer": "No significant lesions"
+        },
+        {
+            "question": "What is seen in the right kidney?",
+            "answer": "contrast"
+        },
+        {
+            "question": "Is there contrast given?",
+            "answer": "yes"
+        },
+        {
+            "question": "Are there 2 kidneys?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are there normal number of kidneys?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Does this look like a healthy liver?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the liver normal?",
+            "answer": "No"
+        },
+        {
+            "question": "Which plane is the image taken?",
+            "answer": "Axial"
+        },
+        {
+            "question": "Is this a normal image?",
+            "answer": "No"
+        }
+    ],
+    "synpic41667.jpg": [
+        {
+            "question": "Is the trachea midline?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Can you view the colon in this image?",
+            "answer": "No"
+        },
+        {
+            "question": "What structure is seen in the left hemidiaphragmatic area?",
+            "answer": "Spleen"
+        },
+        {
+            "question": "What structure is superimposed on the left hemidiaphragm?",
+            "answer": "The heart"
+        },
+        {
+            "question": "What vein is the central venous catheter located in the patient?",
+            "answer": "Right atrium"
+        },
+        {
+            "question": "Where is the central venous catheter placed?",
+            "answer": "Right subclavian vein"
+        },
+        {
+            "question": "Is this a chest radiograph?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is this an AP or PA film?",
+            "answer": "PA"
+        },
+        {
+            "question": "Are the ground glass opacities located more in the apex or base of the lung?",
+            "answer": "Apex"
+        },
+        {
+            "question": "What parts of the lung fields contain the most prominent ground glass opacities?",
+            "answer": "Upper lungs"
+        }
+    ],
+    "synpic29771.jpg": [
+        {
+            "question": "Is the lesion in the image enhancing?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the mass contrast-enhancing?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the bowel perforated?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there bowel perforation present?",
+            "answer": "No"
+        },
+        {
+            "question": "Are there any skeletal joints in the CT?",
+            "answer": "No"
+        },
+        {
+            "question": "What skeletal joint is seen in this image?",
+            "answer": "sternum"
+        },
+        {
+            "question": "Is there free air in the abdomen?",
+            "answer": "No"
+        }
+    ],
+    "synpic31757.jpg": [
+        {
+            "question": "Is the right renal vein visualized?",
+            "answer": "No"
+        },
+        {
+            "question": "Is it possible to identify the right renal vein?",
+            "answer": "yes"
+        },
+        {
+            "question": "What is the location of the mass?",
+            "answer": "Pancreatic body"
+        },
+        {
+            "question": "Where is the mass located?",
+            "answer": "Pancreatic body"
+        },
+        {
+            "question": "Are the borders of the mass well-defined ?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are the borders of the mass well-defined and is the interior of the mass homogenous?",
+            "answer": "Yes"
+        },
+        {
+            "question": "is the interior of the mass homogenous?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the mass well circumscribed?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the mass homogenous?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the mass well circumscribed and homogenous?",
+            "answer": "No"
+        },
+        {
+            "question": "How big is the mass?",
+            "answer": "1.6 cm"
+        }
+    ],
+    "synpic34054.jpg": [
+        {
+            "question": "Is there air trapped in the body?",
+            "answer": "yes"
+        },
+        {
+            "question": "Is there free air present?",
+            "answer": "No"
+        },
+        {
+            "question": "What is the condition of the patient",
+            "answer": "stable"
+        },
+        {
+            "question": "What abnormality is seen?",
+            "answer": "air fluid level in the right peritoneal cavity"
+        },
+        {
+            "question": "Is there evidence of inflammation?",
+            "answer": "No"
+        },
+        {
+            "question": "Is any structure inflamed?",
+            "answer": "yes"
+        },
+        {
+            "question": "Which kidney has fluid around it?",
+            "answer": "Right kidney"
+        }
+    ],
+    "synpic22684.jpg": [
+        {
+            "question": "There is a large enhancing mass growing from what organ in this CT scan?",
+            "answer": "Pancreas"
+        },
+        {
+            "question": "Can the liver be seen in this image?",
+            "answer": "No"
+        },
+        {
+            "question": "What vessel is seen just anterior to the spine enhancing with contrast?",
+            "answer": "Aorta"
+        }
+    ],
+    "synpic54802.jpg": [
+        {
+            "question": "What side are the infarcts located?",
+            "answer": "Bilateral"
+        },
+        {
+            "question": "Where are the infarcts seen?",
+            "answer": "basal ganglia, cerebellum, cerebral cortex"
+        },
+        {
+            "question": "What do the hyperdensities represent?",
+            "answer": "Hemorrhage"
+        },
+        {
+            "question": "What are the hyperdensities indicative of?",
+            "answer": "Hemorrhage"
+        },
+        {
+            "question": "Where are the acute infarcts?",
+            "answer": "basal ganglia, cerebellum, cerebral cortex"
+        },
+        {
+            "question": "Where do you see acute infarcts?",
+            "answer": "basal ganglia, cerebellum, cerebral cortex"
+        },
+        {
+            "question": "Is the image normal?",
+            "answer": "No"
+        }
+    ],
+    "synpic60543.jpg": [
+        {
+            "question": "What would be the most probably diagnosis for this patient?",
+            "answer": "Multiple sclerosis"
+        },
+        {
+            "question": "The image probably had what incidental finding?",
+            "answer": "none"
+        },
+        {
+            "question": "What was probably found incidentally on this image?",
+            "answer": "retinal pigment epithelial thickening"
+        },
+        {
+            "question": "The image above shows an abnormality where?",
+            "answer": "Right parietal lobe"
+        },
+        {
+            "question": "Where is the abnormality in this image?",
+            "answer": "Basal ganglia"
+        }
+    ],
+    "synpic40500.jpg": [
+        {
+            "question": "Is there blurring of the grey-white matter junction?",
+            "answer": "No"
+        },
+        {
+            "question": "Is this image taken from the top slice of the brain?",
+            "answer": "no"
+        },
+        {
+            "question": "Was this image taken from a superior-most section of the brain?",
+            "answer": "no"
+        },
+        {
+            "question": "What organ is this image of?",
+            "answer": "Brain"
+        },
+        {
+            "question": "Is this an axial view of the brain?",
+            "answer": "yes"
+        },
+        {
+            "question": "Does the CSF have high signal intensity?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there high signal intensity in the CSF?",
+            "answer": "Yes"
+        },
+        {
+            "question": "What modality is this image taken?",
+            "answer": "MRI"
+        }
+    ],
+    "synpic27601.jpg": [
+        {
+            "question": "Is the liver normal?",
+            "answer": "No"
+        },
+        {
+            "question": "Is a ring enhancing lesion present in the right lobe of the liver?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the lesion in this image more or less dense than the surrounding tissue?",
+            "answer": "more dense"
+        },
+        {
+            "question": "What is denser, the lesion or the surrounding tissue?",
+            "answer": "Lesion"
+        },
+        {
+            "question": "Where is the spleen located?",
+            "answer": "On the patient's left"
+        },
+        {
+            "question": "Is the spleen present?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Where in relation to the mass is the left kidney located in this image?",
+            "answer": "High"
+        },
+        {
+            "question": "Where is the mass located in relation to the left kidney?",
+            "answer": "Posterior"
+        }
+    ],
+    "synpic21037.jpg": [
+        {
+            "question": "Does this patient have an endotracheal tube placed?",
+            "answer": "No"
+        },
+        {
+            "question": "Does this CXR display pneumoperitoneum?",
+            "answer": "no"
+        },
+        {
+            "question": "Which side of the image is the thoracic mass located on?",
+            "answer": "Right"
+        }
+    ],
+    "synpic34017.jpg": [
+        {
+            "question": "Are the basal ganglia enlarged?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there any hemorrhage?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there involvement of the temporal lobes?",
+            "answer": "yes"
+        }
+    ],
+    "synpic22020.jpg": [
+        {
+            "question": "Is the gall bladder enlarged?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are both kidneys in view?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are both kidneys visible?",
+            "answer": "Yes"
+        },
+        {
+            "question": "What is the muscle adjacent to the vertebrae?",
+            "answer": "Ribs"
+        },
+        {
+            "question": "What muscle surrounds the vertebrae?",
+            "answer": "Rectus abdominis muscle"
+        },
+        {
+            "question": "Is there oral contrast located in the colon?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there oral contrast in the colon?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic56422.jpg": [
+        {
+            "question": "What organ system is shown in the above image?",
+            "answer": "Brain"
+        },
+        {
+            "question": "Which organ system is shown in the image?",
+            "answer": "Brain"
+        },
+        {
+            "question": "How was this MRI taken?",
+            "answer": "T2-weighted"
+        },
+        {
+            "question": "What type of MRI is this?",
+            "answer": "T2"
+        },
+        {
+            "question": "What type of thrombosis is shown?",
+            "answer": "Petechial"
+        },
+        {
+            "question": "Where do we see multiple infarcts in the above image?",
+            "answer": "Basal ganglia"
+        },
+        {
+            "question": "Location of the multiple infarcts?",
+            "answer": "bilateral cerebellum"
+        }
+    ],
+    "synpic23989.jpg": [
+        {
+            "question": "does this constitute a pulmonary pathology?",
+            "answer": "yes"
+        },
+        {
+            "question": "is this an AP CXR",
+            "answer": "yes"
+        },
+        {
+            "question": "What plane is demonstrated?",
+            "answer": "PA"
+        },
+        {
+            "question": "What is the pathology?",
+            "answer": "cardiomegaly with pulmonary edema"
+        },
+        {
+            "question": "What pathology is shown?",
+            "answer": "cardiomegaly"
+        },
+        {
+            "question": "Is there a chest tube placed?",
+            "answer": "No"
+        },
+        {
+            "question": "Is this a tension pneumothorax?",
+            "answer": "No"
+        },
+        {
+            "question": "Does this image show a tension pneumothorax?",
+            "answer": "No"
+        },
+        {
+            "question": "is there tracheal deviation?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the trachea deviated?",
+            "answer": "No"
+        }
+    ],
+    "synpic44995.jpg": [
+        {
+            "question": "The pathology is located in which lobes of the brain?",
+            "answer": "Bilateral parietal lobes"
+        },
+        {
+            "question": "which lobes demonstrate pathology",
+            "answer": "bilateral parietal lobes"
+        },
+        {
+            "question": "Is there restricted diffusion?",
+            "answer": "no"
+        },
+        {
+            "question": "Is this a vascular lesion",
+            "answer": "yes"
+        },
+        {
+            "question": "Does this lesion involve the vascular system?",
+            "answer": "yes"
+        },
+        {
+            "question": "what is the most likely etiology",
+            "answer": "PRES"
+        },
+        {
+            "question": "What is most likely causing these lesions?",
+            "answer": "HIV infection"
+        }
+    ],
+    "synpic23571.jpg": [
+        {
+            "question": "Is the appendix enlarged?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are the small bubbles of air seen normal or abnormal?",
+            "answer": "Normal"
+        },
+        {
+            "question": "The small bubbles of air seen in the lumen are normal or abnormal?",
+            "answer": "Normal"
+        },
+        {
+            "question": "Where Is there obstruction present?",
+            "answer": "Small bowel"
+        },
+        {
+            "question": "Where is obstruction present, if any?",
+            "answer": "Right colon"
+        }
+    ],
+    "synpic31217.jpg": [
+        {
+            "question": "Is this an MRI?",
+            "answer": "no"
+        },
+        {
+            "question": "What is the location of the abnormality?",
+            "answer": "Right side of the trachea"
+        },
+        {
+            "question": "Where is the abnormality?",
+            "answer": "Right side of the trachea"
+        },
+        {
+            "question": "Is this an image of normal physiology?",
+            "answer": "No"
+        },
+        {
+            "question": "Is this patient healthy?",
+            "answer": "No"
+        },
+        {
+            "question": "Are there abnormalities seen in the lungs?",
+            "answer": "No"
+        },
+        {
+            "question": "Where is the nodule?",
+            "answer": "Right upper lobe"
+        },
+        {
+            "question": "What is the abnormality?",
+            "answer": "Right paratracheal mass lesion"
+        },
+        {
+            "question": "Which plane is this image taken in?",
+            "answer": "PA"
+        },
+        {
+            "question": "Is there a nodule in the left lung?",
+            "answer": "No"
+        }
+    ],
+    "synpic49027.jpg": [
+        {
+            "question": "what is the secondary pathology?",
+            "answer": "vasculature"
+        },
+        {
+            "question": "What is the secondary abnormality in this image?",
+            "answer": "Right temporal lobe lesion"
+        },
+        {
+            "question": "What is the primary abnormality in this image?",
+            "answer": "ring-enhancing lesion"
+        },
+        {
+            "question": "what is the primary pathology",
+            "answer": "hydronephrosis"
+        },
+        {
+            "question": "How would you characterize the lesion?",
+            "answer": "Ring-enhancing"
+        },
+        {
+            "question": "What is the characterization of the lesion",
+            "answer": "Ring-enhancing"
+        },
+        {
+            "question": "How many ring enhancing lesions can be found in this image?",
+            "answer": "One"
+        }
+    ],
+    "synpic38531.jpg": [
+        {
+            "question": "Are there rib fractures present?",
+            "answer": "No"
+        },
+        {
+            "question": "Are pleural opacities located on the left, right, or both sides of the lung?",
+            "answer": "Both sides"
+        },
+        {
+            "question": "Are the pleural opacities bilateral or unilateral?",
+            "answer": "Bilateral"
+        },
+        {
+            "question": "Does the left hemidiaphragm appear flat?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there flattening of the left hemidiaphragm?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there decreased aeration at the apex?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the apical aeration normal or decreased?",
+            "answer": "Decreased"
+        }
+    ],
+    "synpic45364.jpg": [
+        {
+            "question": "Is the mass heterogenous?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the mass varied?",
+            "answer": "Yes"
+        },
+        {
+            "question": "What is the location of the lesion?",
+            "answer": "Right lobe of the liver"
+        },
+        {
+            "question": "Where is the lesion?",
+            "answer": "Right lobe of the liver"
+        },
+        {
+            "question": "Are there abnormal findings?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is anything not normal in the image?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there air in the lesion?",
+            "answer": "Yes"
+        }
+    ],
+    "synpic32933.jpg": [
+        {
+            "question": "What is under the right hemidiaphragm?",
+            "answer": "The liver"
+        },
+        {
+            "question": "What is the abnormality by the right hemidiaphragm?",
+            "answer": "right lobe mass"
+        },
+        {
+            "question": "Is the left hemidiaphragm normal?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the left hemidiaphragm normal?",
+            "answer": "No"
+        },
+        {
+            "question": "Is this a normal x ray?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the right hemidiaphragm normal?",
+            "answer": "No"
+        },
+        {
+            "question": "Where is the abnormality located?",
+            "answer": "Right side of the trachea"
+        }
+    ],
+    "synpic32727.jpg": [
+        {
+            "question": "Is there evidence of pneumoperitoneum?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the aorta visible in this section?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is the aorta in view?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Did this patient receive IV contrast?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Was this patient given IV contrast?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Where are the densities identified in the patient?",
+            "answer": "Contrast in the peritoneal cavity"
+        },
+        {
+            "question": "What are the hyperattenuations located around the patient?",
+            "answer": "Ribs"
+        }
+    ],
+    "synpic31962.jpg": [
+        {
+            "question": "Where is the aortic arch?",
+            "answer": "Left"
+        },
+        {
+            "question": "Which side of the image is the aortic arch visualized?",
+            "answer": "Right"
+        },
+        {
+            "question": "Is there a fracture on the left 5th rib?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the left fifth rib broken?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there any inappropriate air collection in subcutaneous tissue?",
+            "answer": "No"
+        },
+        {
+            "question": "Is subcutaneous air present?",
+            "answer": "No"
+        },
+        {
+            "question": "Is the air under the diaphragm pathologic?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there free air under the diaphragm?",
+            "answer": "No"
+        }
+    ],
+    "synpic48749.jpg": [
+        {
+            "question": "Is this a ring enhancing lesion?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Is there ring-enhancement?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Are the dark areas grey or white matter?",
+            "answer": "Grey matter"
+        },
+        {
+            "question": "The dark areas of the image show what type of brain matter?",
+            "answer": "Cerebrospinal fluid"
+        },
+        {
+            "question": "Is there mass effect?",
+            "answer": "no"
+        },
+        {
+            "question": "Which is more likely? Cancer or hemorrhage?",
+            "answer": "Hemorrhage"
+        },
+        {
+            "question": "Is this cancer or hemorrhage?",
+            "answer": "Hemorrhage"
+        }
+    ],
+    "synpic52248.jpg": [
+        {
+            "question": "What organ is affected by pathology in this image?",
+            "answer": "Brain"
+        },
+        {
+            "question": "What structures are involved?",
+            "answer": "cerebellum, cerebrum, brainstem"
+        },
+        {
+            "question": "What imaging plane is depicted here?",
+            "answer": "Axial"
+        },
+        {
+            "question": "What is the plane?",
+            "answer": "axial"
+        },
+        {
+            "question": "What imaging modality was used?",
+            "answer": "MRI"
+        },
+        {
+            "question": "What type of image modality is this?",
+            "answer": "MRI FLAIR"
+        },
+        {
+            "question": "Is this image abnormal?",
+            "answer": "Yes"
+        }
+    ]
+}

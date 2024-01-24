@@ -1,0 +1,63 @@
+model:
+  arch: minigpt_v2
+  model_type: pretrain
+  max_txt_len: 500
+  end_sym: "</s>"
+  low_resource: False
+  prompt_template: '[INST] {} [/INST]'
+  llama_model: "/ibex/project/c2106/MiniGPT4-v2/llama-2-7b-chat-hf"
+  ckpt: "/ibex/project/c2106/MiniGPT4-v2/fintune_with_fixedSLAKE/20240122135/checkpoint_99.pth"
+  lora_r: 64
+  lora_alpha: 16
+
+datasets:
+  cc_sbu_align:
+    vis_processor:
+      train:
+        name: "blip2_image_eval"
+        image_size: 448
+    text_processor:
+      train:
+        name: "blip_caption"
+
+evaluation_datasets:
+  rsna:
+    eval_file_path: /ibex/project/c2106/json_files/RSNA/RSNA_test.json
+    img_path: /ibex/project/c2106/RSNA/RSNA-bbox-1024    
+    max_new_tokens: 100
+    batch_size: 10
+
+  radvqa:
+    eval_file_path: /ibex/project/c2106/json_files/vqa/vqa_test.json
+    img_path: /ibex/project/c2106/radVQA/VQA_RAD_Images 
+    max_new_tokens: 300
+    batch_size: 10
+
+  mimic_cxr:
+    eval_file_path: /ibex/project/c2106/json_files/mimic/MIMIC_test.json
+    img_path: /ibex/project/c2106/mimic-cxr-dataset/image
+    max_new_tokens: 300
+    batch_size: 10
+    
+  nlst:
+    eval_file_path: /ibex/project/c2106/json_files/NLST/NLST_test.json
+    img_path: /ibex/project/c2106/NLST/NLST_images
+    max_new_tokens: 100
+    batch_size: 10
+
+  detect_mimic:
+    eval_file_path: /ibex/project/c2106/json_files/MIMIC-bbox/MIMIC-benchmarck.json
+    img_path: /ibex/project/c2106/mimic-cxr-dataset/image
+    max_new_tokens: 100
+    batch_size: 10
+
+
+run:
+  task: image_text_pretrain
+  name: minigptv2_evaluation
+  save_path: /ibex/project/c2106/MiniGPT4-v2/metric_results
+
+  
+
+  
+

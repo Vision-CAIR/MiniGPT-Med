@@ -1,0 +1,6 @@
+datasets:
+  detect_mimic:
+    data_type: images
+    build_info:
+      image_path: /ibex/project/c2106/mimic-cxr-dataset/detection_MIMIC
+      ann_path: /ibex/project/c2106/json_files/MIMIC-bbox/train_detect_mimic.json

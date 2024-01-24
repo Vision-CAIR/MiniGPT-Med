@@ -1,0 +1,6 @@
+datasets:
+  radvqa: ## check this
+    data_type: images
+    build_info:
+      image_path: /ibex/project/c2106/radVQA/VQA_RAD_Images
+      ann_path: /ibex/project/c2106/json_files/vqa/vqa_train.json

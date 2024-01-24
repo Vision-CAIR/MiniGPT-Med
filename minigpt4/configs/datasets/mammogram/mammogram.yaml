@@ -1,0 +1,6 @@
+datasets:
+  Mammogram:
+    data_type: images
+    build_info:
+      image_path: /ibex/project/c2106/local_data/local_png
+      ann_path: /ibex/project/c2106/json_files/local_mamogram/local_train.json

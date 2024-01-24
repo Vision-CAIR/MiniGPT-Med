@@ -1,0 +1,6 @@
+datasets:
+  grounding_SLAKE:
+    data_type: images
+    build_info:
+      image_path: /ibex/project/c2106/SLAKE_images/imgs
+      ann_path: /ibex/project/c2106/json_files/SLAKE/grounding_train_SLAKE.json
