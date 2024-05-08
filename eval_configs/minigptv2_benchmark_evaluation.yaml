@@ -1,0 +1,69 @@
+model:
+  arch: minigpt_v2
+  model_type: pretrain
+  max_txt_len: 500
+  end_sym: "</s>"
+  low_resource: False
+  prompt_template: '[INST] {} [/INST]'
+  llama_model: "llama-2-7b-chat-hf"
+  ckpt: "add the path of the model"
+  lora_r: 64
+  lora_alpha: 16
+
+datasets:
+  cc_sbu_align:
+    vis_processor:
+      train:
+        name: "blip2_image_eval"
+        image_size: 448
+    text_processor:
+      train:
+        name: "blip_caption"
+
+evaluation_datasets:
+  rsna:
+    eval_file_path: miniGPT-Med/json_files/RSNA/full_RSNA_1024.json
+    img_path: miniGPT-Med/RSNA/RSNA-bbox-1024
+    max_new_tokens: 100
+    batch_size: 10
+
+  radvqa:
+    eval_file_path: /miniGPT-Med/json_files/vqa/full_radVQA.json
+    img_path: /miniGPT-Med/radVQA/VQA_RAD_Images
+    max_new_tokens: 300
+    batch_size: 10
+
+  mimic_cxr:
+    eval_file_path: /miniGPT-Med/json_files/mimic/MIMIC_test.json
+    img_path: /miniGPT-Med/mimic-cxr-dataset/image
+    max_new_tokens: 300
+    batch_size: 10
+    
+  nlst:
+    eval_file_path: /miniGPT-Med/json_files/NLST/NLST_test.json
+    img_path: /miniGPT-Med/NLST/NLST_images
+    max_new_tokens: 100
+    batch_size: 10
+
+  detect_mimic:
+    eval_file_path: /miniGPT-Med/json_files/MIMIC-bbox/MIMIC-benchmarck.json
+    img_path: /miniGPT-Med/mimic-cxr-dataset/image
+    max_new_tokens: 100
+    batch_size: 10
+
+  SLAKE:
+    eval_file_path: /miniGPT-Med/json_files/SLAKE/grounding_test_SLAKE.json
+    img_path: /miniGPT-Med/SLAKE_images/imgs
+    max_new_tokens: 100
+    batch_size: 10
+
+
+run:
+  task: image_text_pretrain
+  name: minigptv2_evaluation
+  save_path: /miniGPT-Med/expermints
+
+  
+
+  
+

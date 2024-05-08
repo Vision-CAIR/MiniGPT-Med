@@ -1,0 +1,6 @@
+datasets:
+  nlst: ## check this
+    data_type: images
+    build_info:
+      image_path: /miniGPT-Med/NLST/NLST_images
+      ann_path: /miniGPT-Med/json_files/NLST/NLST_train.json

@@ -1,0 +1,6 @@
+datasets:
+  grounding_rsna: ## check this
+    data_type: images
+    build_info:
+      image_path: /miniGPT-Med/RSNA/RSNA-bbox-1024
+      ann_path: /miniGPT-Med/json_files/RSNA/RSNA_train.json

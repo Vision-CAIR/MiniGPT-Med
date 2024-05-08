@@ -1,0 +1,6 @@
+datasets:
+  radvqa: ## check this
+    data_type: images
+    build_info:
+      image_path: /miniGPT-Med/SLAKE_images/imgs
+      ann_path: /miniGPT-Med/json_files/SLAKE/eecv24/mearged_merged_VQA_data.json

@@ -1,0 +1,6 @@
+datasets:
+  mimic_cxr:
+    data_type: images
+    build_info:
+      image_path: /miniGPT-Med/mimic-cxr-dataset/image
+      ann_path: /miniGPT-Med/json_files/mimic/MIMIC_train.json

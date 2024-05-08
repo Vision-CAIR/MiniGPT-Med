@@ -1,0 +1,6 @@
+datasets:
+  grounding_SLAKE:
+    data_type: images
+    build_info:
+      image_path: /miniGPT-Med/SLAKE_images/imgs
+      ann_path: /miniGPT-Med/json_files/SLAKE/grounding_train_SLAKE.json
