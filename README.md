@@ -1,9 +1,7 @@
 # MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis
 Asma Alkhaldi, Raneem Alnajim, Layan Alabdullatef, Rawan Alyahya, Jun Chen, Deyao Zhu, Ahmed Alsinan, Mohamed Elhoseiny
-Saudi Data and Artificial Intelligence Authority (SDAIA)
-King Abdullah University of Science and Technology (KAUST)
 
-<a href='MiniGPT-Med.pdf'><img src='paper Link></a>
+*Saudi Data and Artificial Intelligence Authority (SDAIA) and King Abdullah University of Science and Technology (KAUST)*
 
 ## Installation
 ```
@@ -11,11 +9,11 @@ conda env create -f environment.yml
 conda activate miniGPT-Med
 ```
 
-## Download miniGPT-Med trained weights
+## Download miniGPT-Med trained model weights
 
-**Last trained weight with only public datasets and Llama2 could be downloaded at [miniGPT-Med.pth](https://drive.google.com/file/d/18C5KkAkdsW04IMnKX8s_HaL__f8Zlf7B/view?usp=sharing).
+* miniGPT-Med's weights [miniGPT-Med Model](https://drive.google.com/file/d/18C5KkAkdsW04IMnKX8s_HaL__f8Zlf7B/view?usp=sharing)
 
-** Then modify line 8 at miniGPT-Med/eval_configs/minigptv2_eval.yaml to be the path of miniGPT-Med weight.
+* Then modify line 8 at miniGPT-Med/eval_configs/minigptv2_eval.yaml to be the path of miniGPT-Med weight.
 
 ## Prepare weight for LLMs
 
@@ -35,7 +33,7 @@ python demo.py --cfg-path eval_configs/minigptv2_eval.yaml --gpu-id 0
 
 ## Acknowledgement
 
-- [MiniGPT-4](https://minigpt-4.github.io/) This repo is developped on MiniGPT-4, an awesome repo for vision-language chatbot!
+- [MiniGPT-4](https://minigpt-4.github.io/)
 - Lavis
 - Vicuna
 - Falcon
