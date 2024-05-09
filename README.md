@@ -5,6 +5,8 @@ Asma Alkhaldi, Raneem Alnajim, Layan Alabdullatef, Rawan Alyahya, Jun Chen, Deya
 
 ## Installation
 ```
+git clone https://github.com/Vision-CAIR/MiniGPT-Med
+cd MiniGPT-Med
 conda env create -f environment.yml
 conda activate miniGPT-Med
 ```
