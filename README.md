@@ -31,9 +31,18 @@ Then modify line 14 at miniGPT-Med/minigpt4/configs/models/minigpt_v2.yaml to be
 python demo.py --cfg-path eval_configs/minigptv2_eval.yaml --gpu-id 0
 ```
 
+## Dataset
+| Dataset | Images  | json file| 
+|---------|---------|----------|
+| MIMIC   |[Download](https://physionet.org/content/mimiciii/1.4/) | [Download]() |
+| NLST    |[Download](https://wiki.cancerimagingarchive.net/display/NLST)| [Downlaod]() |
+|SLAKE    |[Downlaod](https://www.med-vqa.com/slake/) |[Download]()|
+|RSNA     |[Downlaod](https://www.rsna.org/rsnai/ai-image-challenge/rsna-pneumonia-detection-challenge-2018) | [Download]() |
+|Rad-VQA  |[Downalod](https://osf.io/89kps/) |[Download]() |
+
 ## Acknowledgement
 
-- [MiniGPT-4](https://minigpt-4.github.io/)
+- MiniGPT-4
 - Lavis
 - Vicuna
 - Falcon
