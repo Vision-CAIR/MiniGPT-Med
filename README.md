@@ -30,7 +30,7 @@ Then modify line 14 at miniGPT-Med/minigpt4/configs/models/minigpt_v2.yaml to be
 ## Launching Demo Locally
 
 ```
-python demo.py --cfg-path eval_configs/minigptv2_eval.yaml --gpu-id 0
+python demo_v2.py --cfg-path eval_configs/minigptv2_eval.yaml --gpu-id 0
 ```
 
 ## Dataset
