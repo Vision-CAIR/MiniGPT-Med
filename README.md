@@ -13,7 +13,7 @@ conda activate miniGPT-Med
 
 ## Download miniGPT-Med trained model weights
 
-* miniGPT-Med's weights [miniGPT-Med Model](https://drive.google.com/file/d/18C5KkAkdsW04IMnKX8s_HaL__f8Zlf7B/view?usp=sharing)
+* miniGPT-Med's weights [miniGPT-Med Model](https://drive.google.com/file/d/1kjGLk6s9LsBmXfLWQFCdlwF3aul08Cl8/view?usp=sharing)
 
 * Then modify line 8 at miniGPT-Med/eval_configs/minigptv2_eval.yaml to be the path of miniGPT-Med weight.
 
