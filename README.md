@@ -22,10 +22,10 @@ conda activate miniGPT-Med
 ### Llama2 Version
 
 ```shell
-git clone https://huggingface.co/meta-llama/Llama-2-13b-chat-hf
+git clone https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
 ```
 
-Then modify line 14 at miniGPT-Med/minigpt4/configs/models/minigpt_v2.yaml to be the path of Llama-2-13b-chat-hf.
+Then modify line 14 at miniGPT-Med/minigpt4/configs/models/minigpt_v2.yaml to be the path of Llama-2-7b-chat-hf.
 
 ## Launching Demo Locally
 
