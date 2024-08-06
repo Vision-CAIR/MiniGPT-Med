@@ -3,6 +3,8 @@ Asma Alkhaldi, Raneem Alnajim, Layan Alabdullatef, Rawan Alyahya, Jun Chen, Deya
 
 *Saudi Data and Artificial Intelligence Authority (SDAIA) and King Abdullah University of Science and Technology (KAUST)*
 
+Website link: https://minigpt-med.github.io/ 
+
 ## Installation
 ```
 git clone https://github.com/Vision-CAIR/MiniGPT-Med
