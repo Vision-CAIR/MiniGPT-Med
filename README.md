@@ -3,6 +3,8 @@ Asma Alkhaldi, Raneem Alnajim, Layan Alabdullatef, Rawan Alyahya, Jun Chen, Deya
 
 *Saudi Data and Artificial Intelligence Authority (SDAIA) and King Abdullah University of Science and Technology (KAUST)*
 
+Website link: https://minigpt-med.github.io/ 
+
 ## Installation
 ```
 git clone https://github.com/Vision-CAIR/MiniGPT-Med
@@ -13,7 +15,7 @@ conda activate miniGPT-Med
 
 ## Download miniGPT-Med trained model weights
 
-* miniGPT-Med's weights [miniGPT-Med Model](https://drive.google.com/file/d/18C5KkAkdsW04IMnKX8s_HaL__f8Zlf7B/view?usp=sharing)
+* miniGPT-Med's weights [miniGPT-Med Model](https://drive.google.com/file/d/1kjGLk6s9LsBmXfLWQFCdlwF3aul08Cl8/view?usp=sharing)
 
 * Then modify line 8 at miniGPT-Med/eval_configs/minigptv2_eval.yaml to be the path of miniGPT-Med weight.
 
@@ -22,10 +24,10 @@ conda activate miniGPT-Med
 ### Llama2 Version
 
 ```shell
-git clone https://huggingface.co/meta-llama/Llama-2-13b-chat-hf
+git clone https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
 ```
 
-Then modify line 14 at miniGPT-Med/minigpt4/configs/models/minigpt_v2.yaml to be the path of Llama-2-13b-chat-hf.
+Then modify line 14 at miniGPT-Med/minigpt4/configs/models/minigpt_v2.yaml to be the path of Llama-2-7b-chat-hf.
 
 ## Launching Demo Locally
 
