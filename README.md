@@ -4,6 +4,7 @@ Asma Alkhaldi, Raneem Alnajim, Layan Alabdullatef, Rawan Alyahya, Jun Chen, Deya
 *Saudi Data and Artificial Intelligence Authority (SDAIA) and King Abdullah University of Science and Technology (KAUST)*
 
 Website link: https://minigpt-med.github.io/ 
+- Paper accepted at TMLR 2026 🎉: https://openreview.net/pdf?id=NenHFEg1Di 
 
 ## Installation
 ```
